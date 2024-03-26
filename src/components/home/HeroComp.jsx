@@ -9,7 +9,7 @@ const HeroComp = () =>{
                 </p>
                 <br />
                 <br />
-                <a href="#" className="registration-button">Coming Soon</a>
+                <a href="https://registrasi-os2mn.vercel.app/" className="registration-button">Daftar</a>
                 <br />
                 <br />
                 <br />
