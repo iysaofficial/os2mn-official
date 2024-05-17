@@ -2,7 +2,7 @@ const LogoComp = () =>{
     return(
         <>
         <section className="brand-logo-section" id="brand-logo-section">
-        <h1>Organized By</h1>
+        <h1>Diselenggarakan Oleh</h1>
         <div className="brand-logo-container">
             
             <div className="brand-logo">
@@ -17,7 +17,7 @@ const LogoComp = () =>{
             </div>
             <br/>
         </div>
-        <h1>Supported By</h1>
+        <h1>Didukung Oleh</h1>
         <div className="brand-logo-container">
             <div className="brand-logo">
                 <ul>

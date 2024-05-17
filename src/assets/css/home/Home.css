@@ -421,6 +421,25 @@
     opacity: 1;
 }
 
+@media(max-width:600px){
+    .class-card{
+        width: 200px;
+        height: 220px;
+    }
+    .class-card:hover{
+        height: 450px;
+    }
+    .class-card .class-imgBx{
+        width: 150px;
+        height: 150px;
+    }
+    
+    .class-card:hover .class-imgBx{
+        width: 150px;
+        height: 150px;
+    }
+}
+
 /* class section end */
 
 /* objective section start */
@@ -752,6 +771,15 @@
     .category-cards .category-card{
         height: 300px;
         width: 400px;
+        margin: 20px 0;
+    }
+}
+
+
+@media(max-width:600px){
+    .category-cards .category-card{
+        height: 300px;
+        width: 280px;
         margin: 20px 0;
     }
 }
