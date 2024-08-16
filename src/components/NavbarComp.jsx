@@ -45,11 +45,22 @@ const NavbarComp = () =>{
                     <li className='menu-item'><a href="/AboutPage">Tentang</a></li>
                     <li className='menu-item'><a href="https://drive.google.com/file/d/1aDnrz6M5hoOOp_-bTYb5NeLUWjzOLTh0/view?usp=drive_link" target='_blank'>Buku Panduan</a></li>
                     {/* <li className='menu-item'><a href="/AboutPage">Kelas</a></li> */}
-                    <li className='menu-item'><a href="/#category-section">Kategori</a></li>
-                    <li className='menu-item'><a href="/ContactPage">Hubungi</a></li>
+                    {/* <li className='menu-item'><a href="/#category-section">Kategori</a></li>
+                    <li className='menu-item'><a href="/ContactPage">Hubungi</a></li> */}
                     {/* <li className='menu-item'><a href="https://drive.google.com/file/d/1jkpeD9EN2kWu059MDmriUHgqil_P31xT/view" target='_blank'>Press Release</a></li> */}
                     {/* <li className='menu-item'><a href="https://drive.google.com/drive/folders/1l_bCazIZmdtOSUjAuBAgXTg7YEBTixPY" target='_blank'>Certificate Supervisor</a></li> */}
-
+                    <li className='menu-item'>
+                        <a className='sub-btn' href="#">Liputan Media <i className='fas fa-angle-down'></i></a>
+                        <ul className='sub-menu'>
+                            <li className='sub-item'><a href="https://drive.google.com/file/d/1BE-EOXpnXax2gpx9YzmXbVjH1Jkag2UL/view?usp=sharing" target='_blank'>Press Release 2024</a></li>
+                        </ul>
+                    </li>
+                    <li className='menu-item'>
+                        <a className='sub-btn' href="#">Daftar Pemenang <i className='fas fa-angle-down'></i></a>
+                        <ul className='sub-menu'>
+                            <li className='sub-item'><a href="https://drive.google.com/file/d/1oZ0Hk1MTSYd7QAb7UqLC-WZ0I6XE-_zz/view?usp=sharing" target='_blank'>Daftar Pemenang 2024</a></li>
+                        </ul>
+                    </li>
                     <li className='menu-item'>
                         <a className='sub-btn' href="#">Sertifikat Supervisor <i className='fas fa-angle-down'></i></a>
                         <ul className='sub-menu'>

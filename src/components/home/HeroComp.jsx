@@ -9,7 +9,7 @@ const HeroComp = () =>{
                 </p> */}
                 <br />
                 <br />
-                <a href="#" className="registration-button">Pendaftaran di Tutup</a>
+                <a href="#" className="registration-button">Segera Hadir 2025</a>
                 <br />
                 <br />
                 <br />
