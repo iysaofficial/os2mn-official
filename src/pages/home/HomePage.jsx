@@ -5,6 +5,7 @@ import CategoryComp from '../../components/home/CategoryComp'
 import ObjectiveComp from '../../components/home/ObjectiveComp'
 import ClassComp from '../../components/home/ClassComp'
 import LogoComp from '../../components/home/LogoComp'
+import AfterEventComp from '../../components/home/AfterEventComp'
 
 
 const HomePage = () =>{
@@ -17,9 +18,7 @@ const HomePage = () =>{
         <ClassComp></ClassComp>
         <ObjectiveComp></ObjectiveComp>
         <CategoryComp></CategoryComp>
-        <br />
-        <br />
-        <br />
+        <AfterEventComp></AfterEventComp>
         <LogoComp></LogoComp>
         </>
     )
