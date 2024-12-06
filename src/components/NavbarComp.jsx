@@ -62,6 +62,12 @@ const NavbarComp = () =>{
                         </ul>
                     </li>
                     <li className='menu-item'>
+                        <a className='sub-btn' href="#">Kurasi <i className='fas fa-angle-down'></i></a>
+                        <ul className='sub-menu'>
+                            <li className='sub-item'><a href="https://drive.google.com/drive/u/0/folders/1KJzgJ2waLbokBkOTGYzLHB167IkdlQzN" target='_blank'>Kurasi 2024</a></li>
+                        </ul>
+                    </li>
+                    <li className='menu-item'>
                         <a className='sub-btn' href="#">Sertifikat Supervisor <i className='fas fa-angle-down'></i></a>
                         <ul className='sub-menu'>
                             <li className='sub-item'><a href="https://drive.google.com/drive/folders/15bumsFDA9N81uxqOfPSAcmHWrV1i2_M1?usp=sharing" target='_blank'>Sertifikat Supervisor 2024</a></li>
