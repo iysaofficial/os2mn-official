@@ -5,8 +5,8 @@ const HeroComp = () =>{
             <div className="hero-container">
                 <img src="./assets/images/logo/OSSMN.png" alt=""/>
                 <h1>Olimpiade Sains Siswa Madrasah Nasional</h1>
-                {/* <p>Pendaftaran Olimpiade Sains Siswa Madrasah Nasional telah dibuka!<br /> Bergabunglah dengan acara bergengsi ini dan dapatkan pengalaman yang tak terlupakan!
-                </p> */}
+                <p>Pendaftaran Olimpiade Sains Siswa Madrasah Nasional telah dibuka!<br /> Bergabunglah dengan acara bergengsi ini dan dapatkan pengalaman yang tak terlupakan!
+                </p>
                 <br />
                 <br />
                 <a href="https://registrasi-os2mn-2025-seven.vercel.app/" className="registration-button">Daftar</a>
