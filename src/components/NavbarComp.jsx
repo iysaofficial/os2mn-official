@@ -43,7 +43,7 @@ const NavbarComp = () =>{
                     </div>
                     <li className='menu-item'><a href="/">Utama</a></li>
                     <li className='menu-item'><a href="/AboutPage">Tentang</a></li>
-                    <li className='menu-item'><a href="https://drive.google.com/file/d/1aDnrz6M5hoOOp_-bTYb5NeLUWjzOLTh0/view?usp=drive_link" target='_blank'>Buku Panduan</a></li>
+                    <li className='menu-item'><a href="https://drive.google.com/file/d/1OAIzYsG-Kx3b2U0Gu_uKOqUynm0WwP_l/view?usp=sharing" target='_blank'>Buku Panduan</a></li>
                     {/* <li className='menu-item'><a href="/AboutPage">Kelas</a></li> */}
                     {/* <li className='menu-item'><a href="/#category-section">Kategori</a></li>
                     <li className='menu-item'><a href="/ContactPage">Hubungi</a></li> */}
