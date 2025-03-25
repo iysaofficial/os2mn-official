@@ -56,8 +56,8 @@ const FooterComp = () =>{
                             <div className="col-xl-auto col-md-3 col-12 my-sm-0 mt-5">
                                 <ul className="list-unstyled">
                                     <li className="mt-md-3 mt-4">Office</li>
-                                    <li><a href="mailto:youngscientist.iysa@gmail.com" className='footer-link'>youngscientist.iysa@gmail.com</a> </li>
-                                    <li><a href="https://wa.me/+6281770914129" className='footer-link'>+62-817-7091-4129</a></li>
+                                    <li><a href="mailto:iysa.olympiad@gmail.com" className='footer-link'>iysa.olympiad@gmail.com</a> </li>
+                                    <li><a href="https://wa.me/+6283870026877" className='footer-link'>+6283870026877</a></li>
                                     <li><a href="https://goo.gl/maps/9x18coXGCmSscKec6" className='footer-link'>Jl. Kemang, Pasir Putih, Kecamatan. <br />Sawangan, Kota Depok, Jawa Barat 16519</a></li>
                                 </ul>
                             </div>
