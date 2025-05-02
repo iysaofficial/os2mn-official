@@ -5,22 +5,22 @@ const NewsComp = () => {
         <br />
         <br />
         <br />
-        <h1 className="section-header">Media Coverage</h1>
+        <h1 className="section-header">Liputan Media</h1>
         <br />
         {/* <br /> */}
         <br />
         <section className="post news-container news-section">
             <div className="post-box">
-                <a href="/NewsContentPage1">
-                <img src="./assets/images/news/news1.jpg" alt="" className="post-img"/>
-                <h2 className="category">IYBO NYBO</h2>
-                <a href="/NewsContentPage1" className="post-title">Inaugural National Youth Biology Olympiad and 3rd International Youth Biology Olympiad Successfully Implemented Full Online</a>
-                <span className="post-date">7 May 2024</span>
-                <p className="post-decription">DEPOKPOS - You already know that IYSA now also organizes National and International Olympiad events? Well in this April, IYSA is again organizing a full online Biology Olympiad at the International level, namely the International Youth Biology Olympiad (IYBO) for the second time and also holding a national level which is intended for national participants only under the name National Youth Biology Olympiad (NYBO).</p>
+                <a href="https://jabaran.id/os2mn-2025-sukses-digelar-tampilkan-semangat-kompetisi-ilmiah-pelajar-madrasah-se-indonesia/" target="_blank">
+                <img src="./assets/images/news/news1baru.jpg" alt="" className="post-img"/>
+                <h2 className="category">OS2MN</h2>
+                <a href="/NewsContentPage1" className="post-title">OS2MN 2025 Sukses Digelar, Tampilkan Semangat Kompetisi Ilmiah Pelajar Madrasah Se-Indonesia</a>
+                <span className="post-date">28 April 2025</span>
+                <p className="post-decription">Jabaran.id – Dunia pendidikan madrasah Indonesia kembali menunjukkan prestasi gemilang melalui penyelenggaraan Olimpiade Sains Siswa Madrasah Nasional (OS2MN) 2025. Ajang bergengsi yang dihelat oleh Indonesian Young Scientist Association (IYSA) untuk kedua kalinya ini berlangsung secara daring dari tanggal 10 hingga 17 April 2025, berhasil menyedot antusiasme ratusan pelajar madrasah dari berbagai penjuru tanah air.</p>
 
                 <div className="profile">
-                    <img src="./assets/images/news/Logo Profile News1.png" alt="" className="profile-img"/>
-                    <span className="profile-name">Depokpos</span>
+                    <img src="./assets/images/news/logo1.jpeg" alt="" className="profile-img"/>
+                    <span className="profile-name">Jabaran.id</span>
                 </div>
                 </a>
             </div>

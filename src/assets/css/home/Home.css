@@ -849,13 +849,13 @@
 
 :root {
     --container-color: #1a1e21;
-    --second-color: deepskyblue;
+    --second-color: #498e8a;
     --text-color: #172317;
     --bg-color: #fff;
 }
 
 .news-main-section{
-    background: #191f36;
+    background: #96d1b3;
 }
 
 .news-main-section h1{
@@ -986,12 +986,12 @@
     width: 100%;
     display: grid;
     place-items: center;
-    background: #96d1b3;    
+    background: #fff;    
 }
 
 
 #brand-logo-section h1{
-    color: #fff;
+    color: #000;
     font-size: 2rem;
     margin-bottom: 4rem;
     position: relative;

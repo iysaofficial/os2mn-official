@@ -20,7 +20,7 @@ const HomePage = () =>{
         <ObjectiveComp></ObjectiveComp>
         <CategoryComp></CategoryComp>
         <AfterEventComp></AfterEventComp>
-        {/* <NewsComp></NewsComp> */}
+        <NewsComp></NewsComp>
         <LogoComp></LogoComp>
         </>
     )
