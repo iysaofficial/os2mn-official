@@ -106,6 +106,35 @@ const ListOfWinnerDetail2025Comp = () => {
                 <a href="https://drive.google.com/file/d/1_o8wQcKE1CzqaNCdCXjjib6C0UsI1E_Q/view?usp=sharing " className="low-press-release-button">Download Press Release</a>
             </div>
         </section>
+
+        <section className="low-detail-news-main-section" id="low-detail-news-main-section">
+        <br />
+        <br />
+        <br />
+        <h1 className="section-header">Liputan Media</h1>
+        <br />
+        {/* <br /> */}
+        <br />
+        <section className="low-detail-post news-container news-section">
+            <div className="low-detail-post-box">
+                <a href="https://jabaran.id/os2mn-2025-sukses-digelar-tampilkan-semangat-kompetisi-ilmiah-pelajar-madrasah-se-indonesia/" target="_blank">
+                <img src="./assets/images/news/news1baru.jpg" alt="" className="low-detail-post-img"/>
+                <h2 className="low-detail-news-category">OS2MN</h2>
+                <a href="https://jabaran.id/os2mn-2025-sukses-digelar-tampilkan-semangat-kompetisi-ilmiah-pelajar-madrasah-se-indonesia/" target="_blank" className="low-detail-post-title">OS2MN 2025 Sukses Digelar, Tampilkan Semangat Kompetisi Ilmiah Pelajar Madrasah Se-Indonesia</a>
+                <span className="low-detail-post-date">28 April 2025</span>
+                <p className="low-detail-post-decription">Jabaran.id – Dunia pendidikan madrasah Indonesia kembali menunjukkan prestasi gemilang melalui penyelenggaraan Olimpiade Sains Siswa Madrasah Nasional (OS2MN) 2025. Ajang bergengsi yang dihelat oleh Indonesian Young Scientist Association (IYSA) untuk kedua kalinya ini berlangsung secara daring dari tanggal 10 hingga 17 April 2025, berhasil menyedot antusiasme ratusan pelajar madrasah dari berbagai penjuru tanah air.</p>
+
+                <div className="low-detail-news-profile">
+                    <img src="./assets/images/news/logo1.jpeg" alt="" className="low-detail-news-profile-img"/>
+                    <span className="low-detail-news-profile-name">Jabaran.id</span>
+                </div>
+                </a>
+            </div>
+        </section>
+        <br />
+        <br />
+        <br />
+        </section>
         </>
     )
 }
