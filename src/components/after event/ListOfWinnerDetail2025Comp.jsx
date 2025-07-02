@@ -68,7 +68,7 @@ const ListOfWinnerDetail2025Comp = () => {
                     <div className="content">
                         <h2>Kurasi</h2>
                         <br />
-                        <a href="#" target="_blank" className="low-detail-document-button">Coming Soon</a>
+                        <a href="https://drive.google.com/drive/folders/1cUJJ_FGEWEEGha-tB6RatXlmZ3ScBugf?usp=sharing" target="_blank" className="low-detail-document-button">Download</a>
                     </div>
                 </div>
 
